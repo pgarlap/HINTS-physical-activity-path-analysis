@@ -19,7 +19,7 @@ for understanding how psychological beliefs influence preventive health
 behaviors such as exercise.
 
 This study applied the HBM to the HINTS dataset to identify which 
-belief constructs most strongly predict physical activity — with 
+belief constructs most strongly predict physical activity - with 
 findings contributing to evidence-based intervention design for 
 at-risk populations.
 
@@ -85,7 +85,7 @@ between cancer survivors and non-cancer populations?
 | Cancer History | 1,049 | 3.9% | -0.144 |
 
 **Key insight:** Cancer survivors showed stronger effects of Perceived 
-Severity and Self-Efficacy on physical activity — suggesting health 
+Severity and Self-Efficacy on physical activity - suggesting health 
 beliefs operate differently in this subgroup and interventions should 
 be tailored accordingly.
 
@@ -97,15 +97,15 @@ be tailored accordingly.
 Individuals perceiving greater health threat engaged in *less* exercise 
 — likely reflecting actual health limitations rather than beliefs alone.
 
-**Self-Efficacy** showed consistent positive association — confidence 
+**Self-Efficacy** showed consistent positive association - confidence 
 in managing one's health promotes physical activity, consistent with 
 HBM theory.
 
 **Cancer survivors** showed stronger Perceived Severity effects 
-(β = −0.144 vs −0.123) — health concerns and personal efficacy play 
+(β = −0.144 vs −0.123) - health concerns and personal efficacy play 
 more prominent roles in this group.
 
-My PharmD background informed interpretation of these findings — 
+My PharmD background informed interpretation of these findings - 
 particularly the clinical nuance between perceived health threat and 
 actual physical limitations in older and cancer-affected populations.
 
@@ -113,10 +113,10 @@ actual physical limitations in older and cancer-affected populations.
 
 ## Tools
 
-- **R / RStudio** — primary analysis environment
-- **lavaan** — structural equation modeling and path analysis
-- **ggplot2** — data visualization
-- **Microsoft Excel** — data preparation and codebook
+- **R / RStudio** - primary analysis environment
+- **lavaan** - structural equation modeling and path analysis
+- **ggplot2** - data visualization
+- **Microsoft Excel** - data preparation and codebook
 - **Dataset:** HINTS (Health Information National Trends Survey)
 - **Source:** hints.cancer.gov
 
