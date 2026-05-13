@@ -1,0 +1,22 @@
+Group,Predictor,Beta,SE,p_value,Significant
+Full Sample,Severity,-0.127,0.014,0.000,Yes
+Full Sample,Barriers,+0.050,0.013,0.000,Yes
+Full Sample,SelfEfficacy,+0.039,0.014,0.006,Yes
+Full Sample,Susceptibility,+0.023,0.013,0.063,No
+Full Sample,Benefits,+0.012,0.013,0.354,No
+Full Sample,CuesToAction,+0.008,0.012,0.512,No
+Full Sample,MentalHealth,-0.011,0.013,0.398,No
+No Cancer History,Severity,-0.123,0.016,0.000,Yes
+No Cancer History,Barriers,+0.057,0.014,0.000,Yes
+No Cancer History,Susceptibility,+0.036,0.014,0.009,Yes
+No Cancer History,SelfEfficacy,+0.033,0.015,0.031,Yes
+No Cancer History,Benefits,+0.010,0.014,0.480,No
+No Cancer History,CuesToAction,+0.006,0.013,0.648,No
+No Cancer History,MentalHealth,-0.009,0.014,0.520,No
+Cancer History,Severity,-0.144,0.032,0.000,Yes
+Cancer History,SelfEfficacy,+0.069,0.033,0.038,Yes
+Cancer History,Benefits,+0.044,0.033,0.184,No
+Cancer History,Barriers,+0.003,0.032,0.924,No
+Cancer History,Susceptibility,+0.014,0.033,0.672,No
+Cancer History,CuesToAction,+0.018,0.031,0.562,No
+Cancer History,MentalHealth,-0.021,0.032,0.510,No
